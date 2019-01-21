@@ -29,5 +29,5 @@ Acknowledgments:
 
 - Responsive Web Design Fundamentals
   by Pete LePage and Cameron Pittman
-
+- PhotoSwipe
 **********************************************************************
